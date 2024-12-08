@@ -1,0 +1,6 @@
+C:\Users\aviv1\source\repos\B24 Ex04 Aviv 209518844 Sara 209297225\Ex04.Menus.Events\obj\Debug\Ex04.Menus.Events.csproj.CoreCompileInputs.cache
+C:\Users\aviv1\source\repos\B24 Ex04 Aviv 209518844 Sara 209297225\Ex04.Menus.Events\bin\Debug\Ex04.Menus.Events.dll.config
+C:\Users\aviv1\source\repos\B24 Ex04 Aviv 209518844 Sara 209297225\Ex04.Menus.Events\bin\Debug\Ex04.Menus.Events.dll
+C:\Users\aviv1\source\repos\B24 Ex04 Aviv 209518844 Sara 209297225\Ex04.Menus.Events\bin\Debug\Ex04.Menus.Events.pdb
+C:\Users\aviv1\source\repos\B24 Ex04 Aviv 209518844 Sara 209297225\Ex04.Menus.Events\obj\Debug\Ex04.Menus.Events.dll
+C:\Users\aviv1\source\repos\B24 Ex04 Aviv 209518844 Sara 209297225\Ex04.Menus.Events\obj\Debug\Ex04.Menus.Events.pdb

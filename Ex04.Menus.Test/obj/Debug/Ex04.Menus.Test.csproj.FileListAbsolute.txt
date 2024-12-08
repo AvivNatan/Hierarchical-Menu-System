@@ -1,0 +1,14 @@
+C:\Users\aviv1\source\repos\B24 Ex04 Aviv 209518844 Sara 209297225\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.exe.config
+C:\Users\aviv1\source\repos\B24 Ex04 Aviv 209518844 Sara 209297225\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.exe
+C:\Users\aviv1\source\repos\B24 Ex04 Aviv 209518844 Sara 209297225\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.pdb
+C:\Users\aviv1\source\repos\B24 Ex04 Aviv 209518844 Sara 209297225\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\aviv1\source\repos\B24 Ex04 Aviv 209518844 Sara 209297225\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\Users\aviv1\source\repos\B24 Ex04 Aviv 209518844 Sara 209297225\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interfaces.dll.config
+C:\Users\aviv1\source\repos\B24 Ex04 Aviv 209518844 Sara 209297225\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csproj.AssemblyReference.cache
+C:\Users\aviv1\source\repos\B24 Ex04 Aviv 209518844 Sara 209297225\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csproj.CoreCompileInputs.cache
+C:\Users\aviv1\source\repos\B24 Ex04 Aviv 209518844 Sara 209297225\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csproj.CopyComplete
+C:\Users\aviv1\source\repos\B24 Ex04 Aviv 209518844 Sara 209297225\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.exe
+C:\Users\aviv1\source\repos\B24 Ex04 Aviv 209518844 Sara 209297225\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.pdb
+C:\Users\aviv1\source\repos\B24 Ex04 Aviv 209518844 Sara 209297225\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Events.dll
+C:\Users\aviv1\source\repos\B24 Ex04 Aviv 209518844 Sara 209297225\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Events.pdb
+C:\Users\aviv1\source\repos\B24 Ex04 Aviv 209518844 Sara 209297225\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Events.dll.config
